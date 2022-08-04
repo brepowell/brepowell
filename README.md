@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on an AWS hackathon project.
 - 🌱 I’m currently learning about AWS cloud services and I will be taking Machine Learning and Mobile Computing in the fall of 2022.
 - 👯 I’m looking to collaborate on hackathon projects geared toward sustainability and environmentalism.
