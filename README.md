@@ -27,7 +27,7 @@ _Central Washington University. June 2010_
 # Experience
 
 ## GRADER
-__University of Washington Bothell. March 2025 - June 2025_
+_University of Washington Bothell. March 2025 - June 2025_
 * Scored quizzes for a special topics course about entrepreneurship
 
 ## PARALLEL PROGRAMMING INTERN
@@ -37,7 +37,7 @@ _[Los Alamos National Laboratory](h[ttps://wwwgoogle.com](https://www.lanl.gov/e
 * Visualized E3SM and ICESat data using Python, Cartopy, Matplotlib, NumPy, NetCDF4
 
 ## TEACHING ASSISTANT
-__University of Washington Bothell. September 2023 – June 2024_
+_University of Washington Bothell. September 2023 – June 2024_
 * Supported graduate certificate students in [advanced programming classes in C++](https://www.uwb.edu/stem/graduate/gcsdd)
 
 ## LEAD DESIGNER
@@ -51,19 +51,19 @@ _Tahoma School District. September 2016 – August 2023_
 * Established a routine of feedback exchanges and ensured ongoing communication with teachers
 * Utilized and troubleshot instructional technology, including Google Classroom, Writable, and Homeroom
 
-## PARAEDUCATOR
-_Tahoma School District. September 2014 – August 2022_                     
-* Collaborated with a 10+ person team to provide the best support for divergent thinkers
-* Collected, processed, and analyzed data collected from Google Forms to identify student needs
-* Ran the student recognition program for 1K+ students (for 3 years)
-
 ## MIDDLE SCHOOL ROBOTICS COACH
 _Tahoma School District. September 2015 – August 2019_
 * Coached FLL (First Lego League) Robotics team, teaching age-appropriate programming logic, teamwork, professionalism, and research
 
 ## MIDDLE SCHOOL GREEN TEAM COACH
 _Tahoma School District. September 2015 – August 2021_
-* Led school environmental awareness campaigns as the Green Team Leader, teaching leadership skills, outreach, and sustainability
+* Led school environmental awareness campaigns, teaching leadership skills, outreach, and sustainability practices
+
+## PARAEDUCATOR
+_Tahoma School District. September 2014 – August 2022_                     
+* Collaborated with a 10+ person team to provide the best support for divergent thinkers
+* Collected, processed, and analyzed data collected from Google Forms to identify student needs
+* Ran the student recognition program for 1K+ students (for 3 years)
 
 ---
 
@@ -85,14 +85,16 @@ _November 2023 – December 2023_
 
 ---
 # LEADERSHIP & COMMUNITY INVOLVEMENT
+## SciPy Volunteer
+_June 2025 - July 2025_
 
 ## SC24 Supercomputing Conference Lead Student Volunteer
 _April 2024 - November 2024_
-* Lead Student Volunteer for the Communications Team for SC24 & Sustainability Guided Interest Group
+* Served as Lead Student Volunteer for the Communications Team for SC24 & Sustainability Guided Interest Group
 
 ## SC23 Supercomputing Conference Student Volunteer
 _November 2023_
-* Volunteered for multiple shifts, engaging in a Guided Interest Group about Sustainability in High Performance Computing (HPC) and meeting female leaders in the field of HPC
+* Volunteered for multiple shifts; participated in the Sustainability Guided Interest Group in High Performance Computing (HPC)
 
 ## SENIOR ADVISOR ('24-25) | VICE PRESIDENT ('23-24) | CHIEF MARKETING OFFICER ('22-23) 
 _Association for Computing Machinery (ACM) Student Chapter at UW Bothell_
@@ -100,13 +102,13 @@ _Association for Computing Machinery (ACM) Student Chapter at UW Bothell_
 _September 2021 – August 2025_
 
 * Planned large events of 600+ students by running committees of 3-15 undergraduate and graduate students:
-  * UWB Hacks: Save the World ('25), UWB Hacks AI (‘24), UWB Hacks In Person (‘23), UWB Hacks the Cloud (‘22)
+  * _UWB Hacks: Save the World ('25), UWB Hacks AI (‘24), UWB Hacks In Person (‘23), UWB Hacks the Cloud (‘22)_
   * Increased participation in the UWB Hackathon contest by over 800% in 4 years, through 70+ coordinated marketing strategies
 * Hosted small events of 6-40 students, 5-10 nights per quarter
-  * “ACM Reads: A Quick-Reads, Tech-Focused Discussion Group”, a 5 or 6 night per quarter series, discussing computer science topics, including local and global STEM research
-  * “Machine Learning Contest Series”, a 5 or 6 night per quarter series, covering machine learning concepts for beginners, encouraging team formation and contest submission
-  * Professional Photoshoot, in collaboration with UW Bothell Women in Cybersecurity (WiCyS)
-  * Mock Technical Interviews, in collaboration with Career Services
+  * _ACM Reads: A Quick-Reads, Tech-Focused Discussion Group_, discussing computer science topics, including local and global STEM research
+  * _Machine Learning Contest Series_, covering machine learning basics for beginners, encouraging team formation and contest submission
+  * _Professional Photoshoot_, in collaboration with UW Bothell Women in Cybersecurity (WiCyS)
+  * _Mock Technical Interviews_, in collaboration with Career Services
 * Engaged 100+ industry partners, securing their involvement as speakers for specialized topics
 
 ## VICE PRESIDENT ('23-25)
