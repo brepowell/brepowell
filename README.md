@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Breanna, and I am a Computer Scientist and Deep Learning Engineer. I am also a process improvement specialist, change agent, and former educator with 10+ years of experience delivering quality projects to various stakeholders. I am mission-driven and passionate about sustainability. I excel at cross-disciplinary collaboration and innovative problem-solving.
+My name is Breanna (sounds like "Banana" 🍌), and I am a Computer Scientist and Deep Learning Engineer. I am also a process improvement specialist, change agent, and former educator with 10+ years of experience delivering quality projects to various stakeholders. I am mission-driven and passionate about sustainability. I excel at cross-disciplinary collaboration and innovative problem-solving.
 
 **Check out these great articles about me!**
 * [Getting the most out of the graduate experience](https://www.uwb.edu/news/2024/12/06/how-to-get-the-most-out-of-the-graduate-experience)
