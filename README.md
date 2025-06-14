@@ -34,26 +34,29 @@ _[Los Alamos National Laboratory](h[ttps://wwwgoogle.com](https://www.lanl.gov/e
 
 # TECHNICAL PROJECTS
 
-### Spam vs. Ham Email Classifier. March 2023 – March 2023
+### Spam vs. Ham Email Classifier
+_March 2023 – March 2023_
 * Extracted raw emails from gmail with imaplib; parsed body text; examined feature importance with Principal Component Analysis; built a sequential Keras model with callbacks for early stopping; performed a hyperparameter search and saved the model with the best precision to reduce false positives
 
-### Smart City Bamberg, Germany, CrowdAnym Tourism Management Framework. June 2023 – November 2023
+### Smart City Bamberg, Germany, CrowdAnym Tourism Management Framework 
+_June 2023 – November 2023_
 * Developed a framework to conduct experiments with Wi-Fi sensors for anonymous crowd flow tracking
 * Utilized Python, OpenStreetMap, Leaflet, PostgreSQL database, pgAdmin, and JavaScript libraries
 * The code repository for this is private in GitLab.
 
-### Audio Classifier GUI. November 2023 – December 2023
+### Audio Classifier GUI
+_November 2023 – December 2023_
 * Employed Python, Scikit-Learn, and Librosa to engineer a machine learning pipeline that extracts raw data from audio clips, processes that data, and uses an SVM classifier to identify if they are music or speech
 
 ---
 # LEADERSHIP & COMMUNITY INVOLVEMENT
 
 ## SC24 Supercomputing Conference Lead Student Volunteer
-_SC. April 2024 - November 2024_
+_April 2024 - November 2024_
 * Lead Student Volunteer for the Communications Team for SC24 & Sustainability Guided Interest Group
 
 ## SC23 Supercomputing Conference Student Volunteer
-_SC. November 2023_
+_November 2023_
 * Volunteered for multiple shifts, engaging in a Guided Interest Group about Sustainability in High Performance Computing (HPC) and meeting female leaders in the field of HPC
 
 ## SENIOR ADVISOR ('24-25) | VICE PRESIDENT ('23-24) | CHIEF MARKETING OFFICER ('22-23) 
