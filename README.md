@@ -8,6 +8,11 @@ My name is Breanna (sounds like "BanANa" 🍌), but I also go by Bree. I am a Co
 * [GHC 2023 student scholarships instill confidence and inspire](https://www.uwb.edu/stem/news/2023/12/08/ghc-2023-student-scholarships-instill-confidence-and-inspire)
 * [Researching security and privacy for ‘smart’ cities ](https://www.uwb.edu/news/2023/10/13/researching-security-and-privacy-for-smart-cities)
 
+**Take a look at these LinkedIn posts!**
+* [Alliance 4 Sustainability Clamor Article](https://www.linkedin.com/feed/update/urn:li:activity:7338648654120988672)
+* ["UWB Hacks: Save the World!" Leadership](https://www.linkedin.com/posts/breanna-powell-wa_uwbhacks-uwbhackssavetheworld-uwbhacks2025-activity-7324697931041660928-C8YW?utm_source=share&utm_medium=member_desktop&rcm=ACoAABAojGsBv_rFecqzmTbOqNBk_dzHuXUWH0k)
+* [Los Alamos National Lab Parallel Computing Summer Internship](https://www.linkedin.com/posts/breanna-powell-wa_lanl-landofenchantment-parallelcomputing-activity-7217745698836951040-xRXh?utm_source=share&utm_medium=member_desktop&rcm=ACoAABAojGsBv_rFecqzmTbOqNBk_dzHuXUWH0k)
+
 ---
 # Education
 ## MASTER OF SCIENCE (M.Sc.), COMPUTER SCIENCE & SOFTWARE ENGINEERING
