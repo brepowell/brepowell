@@ -13,6 +13,10 @@ My name is Breanna (sounds like "BanANa" 🍌), but I also go by Bree. I am a Co
 * ["UWB Hacks: Save the World!" Leadership](https://www.linkedin.com/posts/breanna-powell-wa_uwbhacks-uwbhackssavetheworld-uwbhacks2025-activity-7324697931041660928-C8YW?utm_source=share&utm_medium=member_desktop&rcm=ACoAABAojGsBv_rFecqzmTbOqNBk_dzHuXUWH0k)
 * [Los Alamos National Lab Parallel Computing Summer Internship](https://www.linkedin.com/posts/breanna-powell-wa_lanl-landofenchantment-parallelcomputing-activity-7217745698836951040-xRXh?utm_source=share&utm_medium=member_desktop&rcm=ACoAABAojGsBv_rFecqzmTbOqNBk_dzHuXUWH0k)
 
+**More Links!**
+* Browse my [Link Tree](https://linktr.ee/breanna_powell)
+* 📫 Contact Me: [Breanna Powell | LinkedIn](https://www.linkedin.com/in/breanna-powell-wa/)
+
 ---
 # Education
 ## MASTER OF SCIENCE (M.Sc.), COMPUTER SCIENCE & SOFTWARE ENGINEERING
@@ -125,5 +129,3 @@ _February 2023 – August 2025_
 * Facilitated cross-department collaboration by boosting Sustainability Office and campus activities
 * Tabled for A4S at the Fall and Winter Club Fairs, Admitted Students’ Day, and Earth Month Fair
 * Boosted club productivity by formulating 5+ new event ideas and plans, such as facility tours, campus walks, and campus forum
-
-📫 Contact Me: [Breanna Powell | LinkedIn](https://www.linkedin.com/in/breanna-powell-wa/)
