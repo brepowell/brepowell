@@ -58,13 +58,13 @@ _March 2023 – March 2023_
 ---
 # Experience 💼
 
+[**Lead Designer**](https://tinyurl.com/B-P-Design-Portfolio) @ _Illumination Arts Publishing. November 2014 to Present_
+
 **Grader** @ _University of Washington Bothell. March 2025 - June 2025_
 
 **[Parallel Programming Intern](https://www.lanl.gov/engage/organizations/xcp/parallel-computing-summer-research-internship)** @ _Los Alamos National Laboratory. June 2024 - Aug 2024_
 
 **[Graduate Teaching Assistant](https://www.uwb.edu/stem/graduate/gcsdd)** @ _University of Washington Bothell. September 2023 – June 2024_
-
-[**Lead Designer**](https://tinyurl.com/B-P-Design-Portfolio) @ _Illumination Arts Publishing. November 2014 to Present_
 
 **Theme Reader** (District-Wide Assessment Grader) @ _Tahoma School District. September 2016 – August 2023_
 
