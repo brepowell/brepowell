@@ -34,7 +34,7 @@ _Central Washington University. June 2010_
 
 ---
 
-# TECHNICAL PROJECTS
+# TECHNICAL PROJECTS 💻
 
 ### Predicting Arctic Sea Ice Concentration and Extent Using Deep Learning
 _January 2025 – Present_
@@ -56,7 +56,7 @@ _March 2023 – March 2023_
 * Extracted raw emails from gmail with imaplib; parsed body text; examined feature importance with Principal Component Analysis; built a sequential Keras model with callbacks for early stopping; performed a hyperparameter search and saved the model with the best precision to reduce false positives
 
 ---
-# Experience
+# Experience 💼
 
 **Grader** @ _University of Washington Bothell. March 2025 - June 2025_
 
@@ -75,7 +75,7 @@ _March 2023 – March 2023_
 **Robotics Coach** @ _Tahoma School District. September 2015 – August 2019_                  
 
 ---
-# LEADERSHIP & COMMUNITY INVOLVEMENT
+# LEADERSHIP & COMMUNITY INVOLVEMENT 💖
 ## SciPy Volunteer
 _June 2025 - July 2025_
 
