@@ -18,79 +18,61 @@ My name is Breanna (sounds like "BanANa" 🍌), but I also go by Bree. I am a Co
 * 📫 Contact Me: [Breanna Powell | LinkedIn](https://www.linkedin.com/in/breanna-powell-wa/)
 
 ---
-# Education
+# Education 🎓
 ## MASTER OF SCIENCE (M.Sc.), COMPUTER SCIENCE & SOFTWARE ENGINEERING
 _University of Washington Bothell. Expected: August 2025_
 
 Coursework: Machine Learning, Computer Vision, Cybersecurity and AI, Cybersecurity in Emerging Environments, Internet of Things, Mobile Computing, High Performance Computing, Multimedia Database Systems,  Human Factors in Cybersecurity, Knowledge Management Systems
 
-## Graduate Certificate in Software Design & Development
+### Graduate Certificate in Software Design & Development
 _University of Washington Bothell. June 2022_
 
 Coursework: Object-Oriented Programming, Software Development Processes, Systems Programming, Software Testing and Quality, Software Modeling
 
-## Bachelor of Arts in English Language and Literature
+### Bachelor of Arts in English Language and Literature
 _Central Washington University. June 2010_
-
----
-# Experience
-
-## GRADER
-_University of Washington Bothell. March 2025 - June 2025_
-* Scored quizzes for a special topics course about entrepreneurship
-
-## PARALLEL PROGRAMMING INTERN
-_[Los Alamos National Laboratory](h[ttps://wwwgoogle.com](https://www.lanl.gov/engage/organizations/xcp/parallel-computing-summer-research-internship)). June 2024 - Aug 2024_
-* Created a satellite emulator to statistically analyze sea ice thickness metrics, comparing the [Department of Energy’s Energy Exascale Earth System Model (E3SM)](https://github.com/E3SM-Project/E3SM) and real-world altimetry observations from NASA’s ICESat
-* Edited run scripts and executed batch jobs on National Energy Research Scientific Computing Center (NERSC)’s Perlmutter, using Linux/Unix commands, SLURM, 5 compute nodes, 128 cores and 640 tasks
-* Visualized E3SM and ICESat data using Python, Cartopy, Matplotlib, NumPy, NetCDF4
-
-## TEACHING ASSISTANT
-_University of Washington Bothell. September 2023 – June 2024_
-* Supported graduate certificate students in [advanced programming classes in C++](https://www.uwb.edu/stem/graduate/gcsdd)
-
-## LEAD DESIGNER
-_Illumination Arts Publishing. November 2014 to Present_
-* Designed children’s picture books for a non-profit publishing house; completed 12 books 
-* Partnered with stakeholders: editors, authors, illustrators, publishers, and printing press staff
-
-## THEME READER (DISTRICT-WIDE ASSESSMENT GRADER)
-_Tahoma School District. September 2016 – August 2023_
-* Evaluated 2,000+ student essays per year, at a pace of 3 to 4 week sprints
-* Established a routine of feedback exchanges and ensured ongoing communication with teachers
-* Utilized and troubleshot instructional technology, including Google Classroom, Writable, and Homeroom
-
-## MIDDLE SCHOOL ROBOTICS COACH
-_Tahoma School District. September 2015 – August 2019_
-* Coached FLL (First Lego League) Robotics team, teaching age-appropriate programming logic, teamwork, professionalism, and research
-
-## MIDDLE SCHOOL GREEN TEAM COACH
-_Tahoma School District. September 2015 – August 2021_
-* Led school environmental awareness campaigns, teaching leadership skills, outreach, and sustainability practices
-
-## PARAEDUCATOR
-_Tahoma School District. September 2014 – August 2022_                     
-* Collaborated with a 10+ person team to provide the best support for divergent thinkers
-* Collected, processed, and analyzed data collected from Google Forms to identify student needs
-* Ran the student recognition program for 1K+ students (for 3 years)
 
 ---
 
 # TECHNICAL PROJECTS
 
-### Spam vs. Ham Email Classifier
-_March 2023 – March 2023_
-* Extracted raw emails from gmail with imaplib; parsed body text; examined feature importance with Principal Component Analysis; built a sequential Keras model with callbacks for early stopping; performed a hyperparameter search and saved the model with the best precision to reduce false positives
+### Predicting Arctic Sea Ice Concentration and Extent Using Deep Learning
+_January 2025 – Present_
+* Using a Transformer from PyTorch, Podman-HPC for reproducibility; Cartopy for visualization
+* Pretraining with data from the Energy Exascale Earth System Model (E3SM) with PyTorch Dataset + Data Loader
 
 ### Smart City Bamberg, Germany, CrowdAnym Tourism Management Framework 
 _June 2023 – November 2023_
 * Developed a framework to conduct experiments with Wi-Fi sensors for anonymous crowd flow tracking
 * Utilized Python, OpenStreetMap, Leaflet, PostgreSQL database, pgAdmin, and JavaScript libraries
-* The code repository for this is private in GitLab.
+* Note: The code repository for this is private in GitLab
 
 ### Audio Classifier GUI
 _November 2023 – December 2023_
 * Employed Python, Scikit-Learn, and Librosa to engineer a machine learning pipeline that extracts raw data from audio clips, processes that data, and uses an SVM classifier to identify if they are music or speech
+
+### Spam vs. Ham Email Classifier
+_March 2023 – March 2023_
+* Extracted raw emails from gmail with imaplib; parsed body text; examined feature importance with Principal Component Analysis; built a sequential Keras model with callbacks for early stopping; performed a hyperparameter search and saved the model with the best precision to reduce false positives
+
+---
+# Experience
+
+**Grader** @ _University of Washington Bothell. March 2025 - June 2025_
+
+**[Parallel Programming Intern](https://www.lanl.gov/engage/organizations/xcp/parallel-computing-summer-research-internship)** @ _Los Alamos National Laboratory. June 2024 - Aug 2024_
+
+**[Graduate Teaching Assistant](https://www.uwb.edu/stem/graduate/gcsdd)** @ _University of Washington Bothell. September 2023 – June 2024_
+
+[**Lead Designer**](https://tinyurl.com/B-P-Design-Portfolio) @ _Illumination Arts Publishing. November 2014 to Present_
+
+**Theme Reader** (District-Wide Assessment Grader) @ _Tahoma School District. September 2016 – August 2023_
+
+**Paraeducator** @ _Tahoma School District. September 2014 – August 2022_
+
+**Green Team Coach** @ _Tahoma School District. September 2015 – August 2021_
+
+**Robotics Coach** @ _Tahoma School District. September 2015 – August 2019_                  
 
 ---
 # LEADERSHIP & COMMUNITY INVOLVEMENT
@@ -111,7 +93,7 @@ _Association for Computing Machinery (ACM) Student Chapter at UW Bothell_
 _September 2021 – August 2025_
 
 * Planned large events of 600+ students by running committees of 3-15 undergraduate and graduate students:
-  * _UWB Hacks: Save the World ('25), UWB Hacks AI (‘24), UWB Hacks In Person (‘23), UWB Hacks the Cloud (‘22)_
+  * _[UWB Hacks: Save the World ('25)](https://www.uwbhacks.com/), [UWB Hacks AI (‘24)](https://uwb-hacks-ai.devpost.com/), [UWB Hacks In Person (‘23)](https://uwb-acm-hacks-in-person.devpost.com/), [UWB Hacks the Cloud (‘22)](https://uwb-hacks-the-cloud.devpost.com/)_
   * Increased participation in the UWB Hackathon contest by over 800% in 4 years, through 70+ coordinated marketing strategies
 * Hosted small events of 6-40 students, 5-10 nights per quarter
   * _ACM Reads: A Quick-Reads, Tech-Focused Discussion Group_, discussing computer science topics, including local and global STEM research
