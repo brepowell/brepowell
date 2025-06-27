@@ -110,7 +110,7 @@ _Alliance 4 Sustainability (A4S) Club at UW Bothell_
 
 _February 2023 – August 2025_
 
-* Represented the CS department and the Alliance 4 Sustainability in a roundtable with Governor Jay Inslee of Washington State
+* Represented the CS department and the Alliance 4 Sustainability in a [roundtable with Governor Jay Inslee](https://www.instagram.com/p/C2lZJf-RkSy/?utm_source=ig_web_copy_link) of Washington State
 * Facilitated cross-department collaboration by boosting Sustainability Office and campus activities
 * Tabled for A4S at the Fall and Winter Club Fairs, Admitted Students’ Day, and Earth Month Fair
 * Boosted club productivity by formulating 5+ new event ideas and plans, such as facility tours, campus walks, and campus forum
