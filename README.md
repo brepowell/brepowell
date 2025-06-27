@@ -82,6 +82,9 @@ _June 2025 - July 2025_
 ## SC24 Supercomputing Conference Lead Student Volunteer
 _April 2024 - November 2024_
 * Served as Lead Student Volunteer for the Communications Team for SC24 & Sustainability Guided Interest Group
+* Check out ["GIG 4: Increasing the Sustainability of HPC
+ "](https://sc24.supercomputing.org/students/guided-interest-groups/)
+* Communications work: [https://sc24.supercomputing.org/author/breanna-powell/](https://sc24.supercomputing.org/author/breanna-powell/)
 
 ## SC23 Supercomputing Conference Student Volunteer
 _November 2023_
