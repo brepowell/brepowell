@@ -97,13 +97,16 @@ _September 2021 – August 2025_
 
 * Planned large events of 600+ students by running committees of 3-15 undergraduate and graduate students:
   * _[UWB Hacks: Save the World ('25)](https://www.uwbhacks.com/), [UWB Hacks AI (‘24)](https://uwb-hacks-ai.devpost.com/), [UWB Hacks In Person (‘23)](https://uwb-acm-hacks-in-person.devpost.com/), [UWB Hacks the Cloud (‘22)](https://uwb-hacks-the-cloud.devpost.com/)_
-  * Increased participation in the UWB Hackathon contest by over 800% in 4 years, through 70+ coordinated marketing strategies
+  * Increased participation in the UWB Hackathon from 66 to 621 students in 4 years, by coordinating 56 class visits, 150+ emails, and 70+ marketing strategies, reaching 11+ campuses, 15+ departments in 2025
+  * Grew UWB Hacks LinkedIn followers from 0 to 280+ in 4 months
+
 * Hosted small events of 6-40 students, 5-10 nights per quarter
   * _ACM Reads: A Quick-Reads, Tech-Focused Discussion Group_, discussing computer science topics, including local and global STEM research
   * _Machine Learning Contest Series_, covering machine learning basics for beginners, encouraging team formation and contest submission
   * _Professional Photoshoot_, in collaboration with UW Bothell Women in Cybersecurity (WiCyS)
   * _Mock Technical Interviews_, in collaboration with Career Services
-* Engaged 100+ industry partners, securing their involvement as speakers for specialized topics
+* Engaged 100+ industry partners, securing their involvement as judges or speakers for specialized topics
+* Led cross-collaboration between UWB ACM and 16+ other student clubs and organizations
 
 ## VICE PRESIDENT ('23-25)
 _Alliance 4 Sustainability (A4S) Club at UW Bothell_
