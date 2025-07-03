@@ -2,7 +2,8 @@
 
 My name is Breanna (sounds like "BanANa" 🍌), but I also go by Bree. I am a Computer Scientist and Deep Learning Engineer. I am also a process improvement specialist, change agent, and former educator with 10+ years of experience delivering quality projects to various stakeholders. I am mission-driven and passionate about sustainability. I excel at cross-disciplinary collaboration and innovative problem-solving.
 
-**Check out these great articles about me!**
+**Check out these great articles about me or my projects!**
+* [Students collaborate to ‘Save the World’](https://www.uwb.edu/news/2025/06/12/students-collaborate-to-save-the-world)
 * [Getting the most out of the graduate experience](https://www.uwb.edu/news/2024/12/06/how-to-get-the-most-out-of-the-graduate-experience)
 * [Success a product of growth and collaboration](https://www.uwb.edu/news/2024/05/24/success-a-product-of-growth-and-collaboration)
 * [GHC 2023 student scholarships instill confidence and inspire](https://www.uwb.edu/stem/news/2023/12/08/ghc-2023-student-scholarships-instill-confidence-and-inspire)
